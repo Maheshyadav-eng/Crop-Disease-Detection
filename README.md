@@ -1,29 +1,18 @@
-# driver-drowsiness-detection
-A system which alarms the driver as soon as it detects that the driver is becoming drowsy to prevent any accident.
-<br/><br/>
-Steps to run : <br/>
-1) Download/Clone this repository<br/>
-2) Inside the main folder, open a terminal and run => python final-integration.py<br/>
-<br/>
-Working : 
-<br/>
-<ul>
-<li>Open Eyes</li>
-<img src="https://github.com/SuperThinking/driver-drowsiness-detection/blob/master/working_images/OpenEyes.png" width=400/>
-<br/>
-<li>Closed Eyes</li>
-<img src="https://github.com/SuperThinking/driver-drowsiness-detection/blob/master/working_images/ClosedEyes.png" width=400/>
-<br/>
-<li>Drowsiness Detection</li>
-<img src="https://github.com/SuperThinking/driver-drowsiness-detection/blob/master/working_images/Drowsy.png" width=400/>
-<br/>
-<li>Drowsiness Detection (Body Posture)</li>
-<img src="https://github.com/SuperThinking/driver-drowsiness-detection/blob/master/working_images/DrowsyBodyPosture.png" width=400/>
-<br/>
-<li>Yawn Detection</li>
-<img src="https://github.com/SuperThinking/driver-drowsiness-detection/blob/master/working_images/YawnDetection.png" width=400/>
-<br/>
-<li>Drowsiness Detection (After Yawn)</li>
-<img src="https://github.com/SuperThinking/driver-drowsiness-detection/blob/master/working_images/DrowsyAfterYawn.png" width=400/>
-<br/>
-</ul>
+# 🌟Make Sure You Read all Instructions :
+
+##### This code is fully funcional web app which is already deployed in heroku cloud server
+
+##### You have install requirements.txt for run this code in your pc
+
+##### For heroku we also have to create on Procfile
+
+##### Your "plant_disease_model_1_latest.pt" should be in this folder. You have to trained that model in your pc/laptop and drag it to this folder
+
+##### First check the Model section of this Repo. After that you can understand deployed app.
+
+##### Make sure if you change the model name then also change the name of the model argument in the app.py
+
+
+# ⭐Requirements 
+#### You have to Installed all the requirments. Save all the below requirements in requirements.txt
+#### Run this line in cmd/shell :  pip install -r requirements.txt
